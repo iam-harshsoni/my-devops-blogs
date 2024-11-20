@@ -8,14 +8,14 @@ tags: hashnode, 2articles1week
 
 ---
 
-**Introduction:**
+# **Introduction:**
 
 * Start with a brief introduction about the #2Articles1Week challenge and your reason for participating.
     
 * Mention what excited you about this initiative and what you hoped to achieve.
     
 
-**The Journey:**
+## **The Journey:**
 
 * Share your experience of writing two articles in a week.
     
@@ -24,21 +24,21 @@ tags: hashnode, 2articles1week
 * Highlight any obstacles you faced—be it finding time, writer’s block, or structuring your content—and how you overcame them.
     
 
-**Lessons Learned:**
+## **Lessons Learned:**
 
 * Explain how the challenge helped improve your skills, like consistency, creativity, or research.
     
 * Discuss any feedback or engagement from the community that encouraged you.
     
 
-**The Impact:**
+## **The Impact:**
 
 * Describe how completing the challenge boosted your confidence and what new habits or goals it inspired.
     
 * Mention how it has influenced your writing style or perspective on content creation.
     
 
-**Call to Action:**
+## **Call to Action:**
 
 * Encourage others to participate in similar challenges and explain how it could benefit them.
     
