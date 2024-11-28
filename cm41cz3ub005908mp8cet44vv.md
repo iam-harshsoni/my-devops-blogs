@@ -5,7 +5,7 @@ seoDescription: "Migrate cloud resources to Terraform for consistent, scalable, 
 datePublished: Thu Nov 28 2024 13:36:38 GMT+0000 (Coordinated Universal Time)
 cuid: cm41cz3ub005908mp8cet44vv
 slug: step-by-step-guide-to-migrating-resource-configurations-to-terraform
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1732798981315/69c46ad4-bcea-464c-ba8d-59f38aa25027.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1732801448961/fd681953-4833-43e0-a51b-b1385a72ee69.png
 tags: cloud, ec2, docker, aws, github, kubernetes, cloud-computing, hashnode, terraform, jenkins, 2articles1week, ci-cd, 90daysofdevops, 90daysofdevops-chanllenge, tws
 
 ---
