@@ -12,7 +12,7 @@ tags: cloud, docker, aws, kubernetes, developer, cloud-computing, devops, hashno
 
 Today, I dived deep into Continuous Integration and Continuous Deployment (CI/CD) and Jenkins Declarative Pipelines using a Docker agent. To make things more exciting, I created my first project and documented every step so that you can follow along and set it up yourself. Let’s get started!
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733313543109/14b78394-90e5-4aef-b9f7-ba6146a44831.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733314248387/0da759dc-65c0-474b-afcf-b1cd56a5e34a.png align="center")
 
 ---
 
