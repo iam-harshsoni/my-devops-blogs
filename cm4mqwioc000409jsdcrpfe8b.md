@@ -27,11 +27,11 @@ For example, if you’re creating a container for a Python application, the Dock
 
 ---
 
-## **Task: Building and Sharing a Simple Python Web App with Docker**
+## **Task: Building and Sharing a Simple Python App with Docker**
 
-Follow these steps to create, run, and share a Docker container for a Python web app:
+Follow these steps to create, run, and share a Docker container for a Python app:
 
-### Step 1: Create a Dockerfile for a simple web application
+### Step 1: Create a Dockerfile for a simple application
 
 * This is the simple python ‘Hello world’ application for which we are going to create Dockerfile
     
@@ -74,7 +74,7 @@ Follow these steps to create, run, and share a Docker container for a Python web
     Before sharing the image, log in to your Docker Hub account:
     
     ```bash
-    docker login  
+    docker login
     ```
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733292471840/5e80a652-f701-4038-af4c-45afa6cb01d4.png align="center")
