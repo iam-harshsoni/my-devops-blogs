@@ -82,7 +82,7 @@ minikube status && kubectl get nodes
 
 You should see something like this:
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734611068106/a2fb79ba-6030-4c64-b503-5412719d34b5.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734613300920/920f1d21-00fd-431d-811e-4dbde1b8f2f7.png align="center")
 
 Congratulations! You have successfully installed `minikube` on AWS EC2 machines and launched a local Kubernetes cluster.
 
@@ -144,7 +144,7 @@ To create a pod on Kubernetes using `minikube`, you need to follow these steps:
     
 5. You should see something like this:
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734611587496/0c1e488a-2f89-4c4b-9015-f7d60223e6e9.png align="center")
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734613448705/18bfe7f5-45d6-410a-99b6-c2e966c1bb87.png align="center")
     
     This means that the pod is running and ready.
     
@@ -163,7 +163,7 @@ minikube service nginx --url
 
 8\. Copy and paste this URL into your browser and you should see the default Nginx welcome page.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734612252536/2834ba6e-45be-47c9-b4e5-9c2ec702ea48.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734613510201/3f3684d4-3151-4651-9295-0296ec91c50f.png align="center")
 
 Congratulations! You have successfully created your first pod on Kubernetes using `minikube`.
 
