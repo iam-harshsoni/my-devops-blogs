@@ -182,6 +182,6 @@ In this guide, you learned:
 
 Minikube simplifies your Kubernetes learning journey and brings the power of container orchestration to your fingertips.
 
-If you enjoyed this guide and want more hands-on content, connect with me on GitHub or [LinkedIn](https://www.linkedin.com/in/harsh-soni-007hs/).
+If you enjoyed this guide and want more hands-on content, connect with me on [GitHub](https://github.com/iam-harshsoni) or [LinkedIn](https://www.linkedin.com/in/harsh-soni-007hs/).
 
 Let’s build something amazing together! 🚀
