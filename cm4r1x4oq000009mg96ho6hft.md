@@ -34,7 +34,7 @@ On your EC2 instance:
 * Grant Docker permissions to your user:
     
     ```bash
-    sudo usermod -aG docker $USER
+    sudo usermod -aG docker $USER && newgrp docker
     ```
     
 * Install NGINX (optional, for reverse proxy) and MySQL:
