@@ -28,7 +28,7 @@ On your EC2 instance:
     
     ```bash
     sudo apt update
-    sudo apt install docker.io docker-compose -y
+    sudo apt install docker.io docker-compose-v2 -y
     ```
     
 * Grant Docker permissions to your user:
