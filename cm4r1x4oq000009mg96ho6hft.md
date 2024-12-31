@@ -50,8 +50,8 @@ On your EC2 instance:
     Clone the project repository into your local directory:
     
     ```bash
-    git clone <your-repo-url>
-    cd <your-project-folder>
+    git clone https://github.com/iam-harshsoni/Expenses-Tracker-WebApp.git
+    cd Expenses-Tracker-WebApp
     ```
     
     ---
