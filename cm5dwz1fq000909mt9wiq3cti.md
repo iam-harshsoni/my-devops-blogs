@@ -10,7 +10,7 @@ tags: linux, docker, aws, kubernetes, developer, monitoring, devops, aws-lambda,
 
 ---
 
-If you're looking to monitor your Kubernetes cluster effectively, Prometheus and Grafana are your go-to tools. With Helm, you can easily set up and manage these tools. Here's a straightforward guide to get you started:
+:If you're looking to monitor your Kubernetes cluster effectively, Prometheus and Grafana are your go-to tools. With Helm, you can easily set up and manage these tools. Here's a straightforward guide to get you started:
 
 ## Step 1: Install HELM
 
@@ -93,14 +93,14 @@ kubectl get services -n monitoring
 Set up port-forwarding for Prometheus to access it locally:
 
 ```bash
-kubectl port-forward -n monitoring svc/prometheus-stack-prometheus 9090
+kubectl port-forward -n monitoring svc/prometheus-stack-prometheus 9090:9090 -n monitoring
 ```
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1735386702978/b2084e12-3377-4b4a-8c23-cc53d25bf829.png align="center")
 
 ## Step 9: Access Prometheus in Your Browser
 
-Open your browser and navigate to `http://localhost:9090` to access Prometheus.  
+Open your browser and navigate to `http://localhost:9090` to access Prometheus.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1735386747577/f298b032-9130-4d8a-9e96-5dc3d6be0ebc.png align="center")
 
@@ -109,7 +109,7 @@ Open your browser and navigate to `http://localhost:9090` to access Prometheus.
 Set up port-forwarding for Grafana:
 
 ```bash
-kubectl port-forward -n monitoring svc/prometheus-stack-grafana 31000
+kubectl port-forward -n monitoring svc/prometheus-stack-grafana 31000:31000 -n monitoring
 ```
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1735387272044/0ee525e7-3d6a-4dc3-9912-a932b0cc3a01.png align="center")
