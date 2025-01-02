@@ -109,7 +109,7 @@ Open your browser and navigate to `http://localhost:9090` to access Prometheus.
 Set up port-forwarding for Grafana:
 
 ```bash
-kubectl port-forward -n monitoring svc/prometheus-stack-grafana 31000:31000 -n monitoring
+kubectl port-forward -n monitoring svc/prometheus-stack-grafana 31000:80 -n monitoring
 ```
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1735387272044/0ee525e7-3d6a-4dc3-9912-a932b0cc3a01.png align="center")
